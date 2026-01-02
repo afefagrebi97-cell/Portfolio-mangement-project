@@ -9,4 +9,5 @@ A beginner-friendly Python script that reads holdings from a CSV, fetches curren
 
 ## Setup
 ```bash
+
 pip install -r requirements.txt
